@@ -1,0 +1,12 @@
+Temos os interruptores: (A, B, C)
+
+1º passo: Ligamos o interruptor A e deixamos este ligado o tempo todo
+2º passo: Ligamos o interruptor B por alguns minutos
+3º passo: Desligamos o interruptor B
+* Deixamos o interruptor C desligado o tempo todo
+
+1a Ida: Vamos à primeira sala. Caso a lâmpada esteja acesa, ela corresponde ao interruptor A, caso esteja apaga e quente ela corresponde ao interruptor B, e caso ela esteja apagada e fria corresponde ao interruptor C.
+Assim descobrimos qual interruptor corresponde à lâmpada daquela sala, sobrando 2 interruptores para descobrirmos.
+
+2a Ida: Vamos à segunda sala e realizamos o mesmo procedimento para descobrir o interruptor correspondente àquela sala.
+Então, com as 2 salas já definidas, por exclusão, sabemos também qual interruptor corresponde à terceira sala.
