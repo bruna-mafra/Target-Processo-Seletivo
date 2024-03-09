@@ -8,3 +8,5 @@ while (K < index) {
 }
 
 console.log(sum)
+
+// O resultado é 91
